@@ -1,6 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=100&section=header"/>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Maurício+Silva+Lisboa;I'm+35+years+old;I+am+from+Salvador,+BA;I+study+Analysis+and+Systems+Development+at+Faculdade+Visconde+de+Cairú;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Maurício+Silva+Lisboa;I'm+35+years+old;I+am+from+Salvador,+BA;I+study;Analysis+and+Systems+Development;at+Faculdade+Visconde+de+Cairú;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
 <div align="center">  
@@ -45,4 +45,4 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{MauricioL88}/count.svg" /></p> 
 <br></div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=100&section=footer"/>
