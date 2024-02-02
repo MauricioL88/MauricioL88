@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header&text=Maurício Silva Lisboa&fontSize=30&fontColor=fff&animation=twikling&fontAlignY=35"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=Maurício Silva Lisboa&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Maurício+Silva+Lisboa;I'm+35+years+old;I+am+from+Salvador,+BA;I+study+Analysis+and+Systems+Development+at+Faculdade+Visconde+de+Cairú;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
