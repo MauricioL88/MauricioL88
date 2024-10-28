@@ -1,5 +1,5 @@
 # Maurício Lisboa
-Ola! 👋 Meu nome é Maurício, sou estudande de Análise e Desenvolvimento de Sistemas pela Faculdade Visconde de Cairú.</br>Sou nativo e residente da cidade do Salvador-BA.</br>Gosto da linguagem Java ☕ e pretendo me tornar um especialista nesta tecnologia.</br>
+Olá! 👋 Meu nome é Maurício, sou estudande de Análise e Desenvolvimento de Sistemas pela Faculdade Visconde de Cairú.</br>Sou nativo e residente da cidade do Salvador-BA.</br>Gosto da linguagem Java ☕ e pretendo me tornar um especialista nesta tecnologia.</br>
 
 ### Curiosidade
 Gosto de analisar dados e tecnologias mobile.
