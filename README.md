@@ -40,11 +40,9 @@ Gosto de analisar dados e tecnologias mobile.
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MauricioL88&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 ## Minhas contribuições
-[![GitHub Streak](https://streak-stats.demolab.com/?user=MauricioL88&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=MauricioL88&theme=dark&hide_border=true&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=MauricioL88&repo=dio-java-spring-boot-claro&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/MauricioL88/dio-java-spring-boot-claro)
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=MauricioL88&repo=UNIFEL---FRONT&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/MauricioL88/UNIFEL---FRONT)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=MauricioL88&repo=estudo-css&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/MauricioL88/estudo-css)
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
