@@ -1,5 +1,5 @@
 # Maurício Lisboa
-Olá! 👋 Meu nome é Maurício, sou estudande de Análise e Desenvolvimento de Sistemas pela Faculdade Visconde de Cairú.</br>Sou nativo e residente da cidade do Salvador-BA.</br>Gosto da linguagem Java ☕ e pretendo me tornar um especialista nesta tecnologia.</br>
+Olá! 👋 Meu nome é Maurício, sou estudande de Análise e Desenvolvimento de Sistemas pela Faculdade Visconde de Cairú.</br>Sou nativo e residente da cidade do Salvador-BA.</br>
 
 ### Curiosidade
 Gosto de analisar dados e tecnologias mobile.
@@ -31,7 +31,8 @@ Gosto de analisar dados e tecnologias mobile.
 
 #### Tecnologias que tenho interesse em aprender
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## Github Stats
