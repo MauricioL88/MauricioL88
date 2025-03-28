@@ -46,6 +46,8 @@ Gosto de analisar dados e tecnologias mobile.
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=MauricioL88&repo=estudo-css&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/MauricioL88/estudo-css)
 
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=MauricioL88&repo=javascript-typescript-udemy&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/MauricioL88/javascript-typescript-udemy)
+
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{MauricioL88}/count.svg" /></p> 
