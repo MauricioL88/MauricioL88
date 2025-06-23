@@ -47,6 +47,8 @@ Gosto de analisar dados e tecnologias mobile.
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=MauricioL88&theme=dark&hide_border=true&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D" alt="GitHub Streak" /></a>
 
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=MauricioL88&repo=bootcamp-santander-java-2025&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/MauricioL88/bootcamp-santander-java-2025)
+
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=MauricioL88&repo=bootcamp-dio-dart&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/MauricioL88/bootcamp-dio-dart)
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=MauricioL88&repo=meuappflutter&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/MauricioL88/meuappflutter)
