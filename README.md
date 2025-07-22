@@ -65,7 +65,7 @@
 ---
 
 ## 📌 Projeto em destaque
-
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=MauricioL88&repo=gft-start-7-java&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/MauricioL88/gft-start-7-java)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=MauricioL88&repo=java-developer-dio&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/MauricioL88/java-developer-dio)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=MauricioL88&repo=dio-java-spring-boot-claro&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/MauricioL88/dio-java-spring-boot-claro)
 
