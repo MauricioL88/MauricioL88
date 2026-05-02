@@ -1,9 +1,9 @@
 <h1 align="center">Olá, eu sou o Maurício Lisboa 👋</h1>
 
 <p align="center">
-🎓 Estudante de Análise e Desenvolvimento de Sistemas pela Faculdade Visconde de Cairú.  
+🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas pela Faculdade Visconde de Cairú.  
 📍 Residente em Salvador - BA | 🇧🇷  
-📱 Interessado em desenvolvimento mobile e análise de dados.
+📱 Interessado em desenvolvimento mobile e Web Backend.
 </p>
 
 ---
@@ -25,34 +25,30 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-### 🛠️ IDEs e Ferramentas
-![VSCode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![NetBeans](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
-![IntelliJ](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 ### 💻 Sistemas Operacionais
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Linux Mint](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white)
 
 ---
 
-## 🚀 Tecnologias em aprendizado
+### 🛠️ Tecnologias e Ferramentas
 
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+| Categoria | Ferramentas |
+| :--- | :--- |
+| **Linguagens** | ![Java](https://img.shields.io/badge/-Java-ED8B00?logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3670A0?logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white) |
+| **Mobile** | ![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white) |
+| **Web / Backend** | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) |
+| **Ferramentas** | ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) |
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MauricioL88&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&hide_title=true&hide=stars)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MauricioL88&show_icons=true&theme=transparent&bg_color=000&border_color=30A3DC&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MauricioL88&bg_color=000000&border_color=30A3DC&title_color=E94D5F&text_color=FFFFFF)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MauricioL88&layout=compact&theme=transparent&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 ---
 
@@ -65,9 +61,7 @@
 ---
 
 ## 📌 Projeto em destaque
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=MauricioL88&repo=gft-start-7-java&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/MauricioL88/gft-start-7-java)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=MauricioL88&repo=java-developer-dio&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/MauricioL88/java-developer-dio)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=MauricioL88&repo=dio-java-spring-boot-claro&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/MauricioL88/dio-java-spring-boot-claro)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=MauricioL88&repo=todo-list-mvp&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/MauricioL88/todo-list-mvp)
 
 ---
 
